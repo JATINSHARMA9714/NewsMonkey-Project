@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Aisha Malik",
+    "title": "Instagram launches a new hub to help users resolve account access issues",
+    "description": "Instagram is introducing and expanding a number of features to help users keep their accounts secure, the company announced on Thursday.",
+    "url": "https://techcrunch.com/2022/12/15/instagram-launches-hub-help-users-resolve-account-access-issues/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/instagram-hacked-hub.png?resize=1200,594",
+    "publishedAt": "2022-12-15T16:33:10Z",
+    "content": "Instagram is introducing and expanding a number of features to help users keep their accounts secure, the company announced on Thursday. Most notably, the social network is launching a new “hacked” h… [+2089 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Christine Hall",
+    "title": "Cultivated beef companies tout sustainability. Will it lead to marketability?",
+    "description": "A SCiFi Foods' analysis showed that 1 kilogram of its SCiFi burger had a lesser environmental impact than a traditional beef patty.",
+    "url": "https://techcrunch.com/2022/12/15/cultivated-beef-companies-shine-light-on-sustainability/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/SCiFiBurger2.jpg?resize=1200,668",
+    "publishedAt": "2022-12-15T15:56:08Z",
+    "content": "The market for lab-grown meat, also called cultivated or cell-cultured meat, is expected to reach $1.99 billion by 2035, growing at an annual rate of 21.4%. Beef is poised to be the dominant segment.… [+2336 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kyle Wiggers",
+    "title": "Companies -- and VCs -- continue to invest in AI despite market slowdown",
+    "description": "AI investments might be down from their highs. But that doesn't mean companies aren't increasing their budgets for 'intelligent' apps.",
+    "url": "https://techcrunch.com/2022/12/15/despite-the-market-slowdown-companies-and-vcs-continue-to-invest-in-ai/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-965917342.jpg?resize=1200,779",
+    "publishedAt": "2022-12-15T14:50:04Z",
+    "content": "While hiring freezes at Big Tech firms might be hurting certain AI investments, it’s clear that there remains a strong appetite throughout the enterprise for AI technologies whether developed in-hous… [+1310 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Paul Sawers",
+    "title": "Spotify's grand plan to monetize its open source Backstage project via premium plugins",
+    "description": "Spotify is set to commercialize a developer-focused project it open-sourced three years ago, with plans to sell companies premium plugins.",
+    "url": "https://techcrunch.com/2022/12/15/spotifys-plan-to-monetize-its-open-source-backstage-developer-project/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/header.png?resize=1200,727",
+    "publishedAt": "2022-12-15T14:19:36Z",
+    "content": "With nearly a third of the global music-streaming market share, Spotify needs little in the way of introduction. Some 456 million people consume music, podcasts and audiobooks through Spotify each mo… [+9280 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Carly Page",
+    "title": "US claims major DDoS-for-hire takedown, but some 'seized' sites still load",
+    "description": "Several of the illegal DDoS booter domains seized by U.S. law enforcement are still active and operational.",
+    "url": "https://techcrunch.com/2022/12/15/ddos-booter-justice-department-seized/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/website-seized-booter-smaller.jpg?resize=1200,775",
+    "publishedAt": "2022-12-15T14:18:41Z",
+    "content": "U.S. officials say they have seized dozens of domains linked to some of the worlds leading distributed denial-of-service sites for-hire websites. But TechCrunch found that several of the seized sites… [+2205 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Romain Dillet",
+    "title": "PayPal and MetaMask team up to make it easier to buy crypto",
+    "description": "MetaMask announced that it would add an integration in its crypto wallet so that users can buy cryptocurrencies using their PayPal account.",
+    "url": "https://techcrunch.com/2022/12/15/paypal-and-metamask-team-up-to-make-it-easier-to-buy-crypto/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-1136632384.jpg?resize=1200,800",
+    "publishedAt": "2022-12-15T14:04:17Z",
+    "content": "PayPal is primarily known as an online payment method. But the company wants to become an easy way to get started with cryptocurrencies. In that regard, ConsenSys, the company behind MetaMask, announ… [+2685 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Ram Iyer",
+    "title": "Developer platforms are all about trust, and Twitter lost it",
+    "description": "Let this be my personal notice to Twitter developers: the developer platform team is gone, the investment has been undone.",
+    "url": "https://techcrunch.com/2022/12/15/developer-platforms-are-all-about-trust-and-twitter-lost-it/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/twitter-melting.jpg?resize=1200,645",
+    "publishedAt": "2022-12-15T13:52:38Z",
+    "content": "More posts by this contributor\r\nTwitter is where the world shares its opinions and aspirations; it’s where brands, celebrities, and politicians interact with people, live and in the open.\r\nFrom 2006 … [+6701 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Christine Hall",
+    "title": "Presto can now make Santa, celebrities, 'appear' in your drive-thru",
+    "description": "The goal is to help restaurants increase sales by offering upsells, reduce wait times, improve order accuracy and just delight customers.",
+    "url": "https://techcrunch.com/2022/12/15/presto-santa-drive-thru/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/presto_voice_custom_voices_2880x1507.jpg?resize=1200,674",
+    "publishedAt": "2022-12-15T13:47:01Z",
+    "content": "The next time you go through a quick-serve restaurants drive-thru lane, you might hear a familiar ho, ho, ho over the speaker.\r\nPresto Automation, a publicly traded restaurant technology company, has… [+3274 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Paul Sawers",
+    "title": "Meta, Microsoft, AWS and TomTom launch the Overture Maps Foundation to develop interoperable open map data",
+    "description": "The Linux Foundation has partnered with Meta, Microsoft, AWS and TomTom to create interoperable and open map data.",
+    "url": "https://techcrunch.com/2022/12/15/meta-microsoft-aws-and-tomtom-launch-the-overture-maps-foundation-to-develop-interoperable-open-map-data/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-951876214.jpg?resize=1200,787",
+    "publishedAt": "2022-12-15T12:06:11Z",
+    "content": "The Linux Foundation has partnered with some of the world’s biggest technology companies to develop interoperable and open map data, in what is a clear move to counter Google’s dominance in the map d… [+4086 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kyle Wiggers",
+    "title": "Protect AI lands a $13.5M investment to harden AI projects from attack",
+    "description": "Protect AI, a startup developing tools to help developers identify exploits and vulnerabilities in their AI projects, has raised $13.5 million.",
+    "url": "https://techcrunch.com/2022/12/15/protect-ai-lands-a-13-5m-investment-to-harden-ai-projects-from-attack/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1215119276.jpg?resize=1200,829",
+    "publishedAt": "2022-12-08T00:21:48Z",
+    "content": "Seeking to bring greater security to AI systems, Protect AI today raised $13.5 million in a seed-funding round co-led by Acrew Capital and Boldstart Ventures with participation from Knollwood Capital… [+5991 chars]"
+    }
+    ]
+    }
